@@ -30,7 +30,7 @@ With an increasing emphasis on sustainable waste management, this project aims t
 ## Software Requirements
 
 - Python 3.x
-- [TensorFlow](https://www.tensorflow.org/) for model training and predictions
+- [TensorFlow](https://www.tensorflow.org/) and [TensorFlow Lite](https://blog.tensorflow.org/2021/11/on-device-training-in-tensorflow-lite.html) for model training and predictions
 - OpenCV for image processing
 
 ## Usage
